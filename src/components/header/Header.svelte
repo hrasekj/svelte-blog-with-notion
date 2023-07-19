@@ -2,9 +2,7 @@
   export let title: string;
 </script>
 
-<header
-  class="w-full m-0 p-0 bg-cover bg-bottom relative overflow-hidden h-[80vh] max-h-[300px] md:max-h-[600px]"
->
+<header class="w-full m-0 p-0 bg-cover bg-bottom relative overflow-hidden h-[80vh] max-h-[300px] md:max-h-[600px]">
   <img
     class="absolute w-full h-auto object-cover z-0"
     src="/nature-landscape-water.jpg"

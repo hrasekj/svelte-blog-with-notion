@@ -24,7 +24,7 @@
   {/each}
 </svelte:head>
 
-<main class="flex flex-col h-screen justify-between">
+<main class="flex flex-col min-h-screen justify-between">
   <slot />
   <FooterComponent />
 </main>
